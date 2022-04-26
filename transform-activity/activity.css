@@ -2,7 +2,7 @@ main {
     transform: skewX(-10deg) rotate(-10deg);
 }
 #movetxt {
-    -webkit-animation: moving 5s infinite;
+    animation: moving 5s infinite;
     animation: moving 5s infinite;
 }
 @keyframes moving {
